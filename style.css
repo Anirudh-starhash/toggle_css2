@@ -1,0 +1,43 @@
+html{
+    background-color: gainsboro;
+}
+#main{
+    text-align: center;
+    color: aliceblue;
+    background-color: blueviolet;
+    font-weight: lighter;
+    height: 110px;
+}
+#Home{
+    position: absolute;
+    left:42%;
+    top:13%;
+}
+#About{
+    position: absolute;
+    left:49%;
+    top:13%;
+}
+#Contact{
+    position: absolute;
+    left:56%;
+    top:13%;
+}
+#main2{
+    text-align: center;
+    color: black;
+    background-color: gainsboro;
+    font-weight: lighter;
+    height: 110px;
+}
+#main3{
+    text-align: center;
+    color: gainsboro;
+    background-color: blueviolet;
+    font-weight: lighter;
+    height: 50px;
+}
+#toggle_wala{
+    background-color: blueviolet;
+    color: whitesmoke;
+}
